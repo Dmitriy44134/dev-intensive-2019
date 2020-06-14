@@ -1,4 +1,5 @@
 # Built application files
+
 *.apk
 *.ap_
 *.aab
@@ -6,12 +7,17 @@
 # Local configuration file (sdk path, etc)
 local.properties
 
+
 # Gradle files
 .gradle/
+
+# Signing files
+.signing/
 
 # User-specific configurations
 *.iml
 
+<
 # OS-specific files
 .DS_Store
 .DS_Store?
@@ -30,3 +36,4 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 lint/reports/
+
